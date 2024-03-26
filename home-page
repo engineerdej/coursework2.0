@@ -1,0 +1,17 @@
+<!doctype html>
+<html lang="en-UK">
+<head>
+
+<meta charset="utf-8" />
+<title>EngineerDayjah's database</title>
+</head> <meta name="author" content="Dejonay Telfer" />
+<meta name="description" content="Dayjah's personal page" />
+<link 
+<body>
+
+<h1>My Website</h1>
+<img src='images/' alt='top banner' />
+<p>This is my page</p>
+<p>The website has a <a href='search-page.html'>second page</a>.</p>
+</body>
+</html>
